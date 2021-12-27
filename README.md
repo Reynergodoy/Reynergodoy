@@ -1,5 +1,3 @@
-<h3 align="left">[Reynergodoy@World ~]$</h3>
-
 A student based in Brazil.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynergodoy&show_icons=true&theme=synthwave&locale=en&include_all_commits=true&count_private=true" alt="reynergodoy" /></p>
