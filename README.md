@@ -16,4 +16,4 @@ A student based in Brazil.
 
 <h2 align="left">Important:</h3>
 <p align="left"> <a href="https://v8.dev/" target="_blank" rel="noreferrer"> <img src="https://v8.dev/_img/v8.svg" alt="v8" width="80" height="80"/> </a> <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" alt="ecmascript" width="80" height="80"/> </a> <a href="https://github.com/tc39" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1725583" alt="tc39" width="80" height="80"/> </a>
-<!--- <a href="https://blog.mozilla.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1725583" alt="spidermonkey" width="80" height="80"/> </a> https://spidermonkey.dev/-->
+<!--- <a href="https://blog.mozilla.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1725583" alt="spidermonkey" width="80" height="80"/> </a> https://spidermonkey.dev/ -->
